@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/fatih/AndroidStudioProjects/FitOnClone/app/src/main/res/drawable/bg.xml" value="0.416" />
+        <entry key="..\:/Users/fatih/AndroidStudioProjects/FitOnClone/app/src/main/res/drawable/button_shadow.xml" value="0.416" />
+        <entry key="..\:/Users/fatih/AndroidStudioProjects/FitOnClone/app/src/main/res/drawable/circle.xml" value="0.416" />
+        <entry key="..\:/Users/fatih/AndroidStudioProjects/FitOnClone/app/src/main/res/drawable/horizontal_line.xml" value="0.487" />
+        <entry key="..\:/Users/fatih/AndroidStudioProjects/FitOnClone/app/src/main/res/drawable/ic_baseline_access_time_filled_24.xml" value="0.2925" />
+        <entry key="..\:/Users/fatih/AndroidStudioProjects/FitOnClone/app/src/main/res/drawable/ic_baseline_directions_walk_24.xml" value="0.2925" />
+        <entry key="..\:/Users/fatih/AndroidStudioProjects/FitOnClone/app/src/main/res/drawable/ic_baseline_remove_24.xml" value="0.416" />
+        <entry key="..\:/Users/fatih/AndroidStudioProjects/FitOnClone/app/src/main/res/drawable/line.xml" value="0.416" />
+        <entry key="..\:/Users/fatih/AndroidStudioProjects/FitOnClone/app/src/main/res/drawable/rounded_button.xml" value="0.416" />
+        <entry key="..\:/Users/fatih/AndroidStudioProjects/FitOnClone/app/src/main/res/font/font.xml" value="0.584375" />
+        <entry key="..\:/Users/fatih/AndroidStudioProjects/FitOnClone/app/src/main/res/layout/activity_main.xml" value="0.5" />
+        <entry key="..\:/Users/fatih/AndroidStudioProjects/FitOnClone/app/src/main/res/layout/fragment_workout.xml" value="0.5" />
+        <entry key="..\:/Users/fatih/AndroidStudioProjects/FitOnClone/app/src/main/res/layout/workout_exercises_rv.xml" value="0.33" />
+        <entry key="..\:/Users/fatih/AndroidStudioProjects/FitOnClone/app/src/main/res/layout/workout_filter_rv.xml" value="0.5" />
+        <entry key="..\:/Users/fatih/AndroidStudioProjects/FitOnClone/app/src/main/res/menu/main_menu.xml" value="0.5541666666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
